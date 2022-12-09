@@ -1,0 +1,17 @@
+# Ignore data
+data/
+
+# Ignore model
+model/
+
+# Ignore data_small
+data_small/
+
+# Ignore version-history
+version-history/
+
+# Ignore README.md
+README(from_origin).md
+
+# Ignore vgg19.npy
+vgg19.npy
