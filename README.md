@@ -1,11 +1,20 @@
-# The Lottery Ticket Hypothesis and Reinitialisation with Masks
+# [Novel Convolutional Neural Networks with Multi-layer Feature Aggregation and Pooling Permutations for Sound Classification](https://ieeexplore.ieee.org/abstract/document/10935109)
 
-### Published in: 2024 International Conference on Machine Learning and Cybernetics (ICMLC)
+### Published in: 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) 
 
-### Authors: Hyosun Choi; Christopher Watkins; Li Zhang; Nicolo Colombo
+### Authors: Hyosun Choi, Li Zhang, Chris Watkins, and Arjun Panesar
 
-Abstract: The well known Lottery Hypothesis [1] is that large neural networks contain sparse sub-networks that can be trained to equal or better performance; these networks can be found by iterative magnitude pruning (IMP), in which trainable weights are gradually removed to produce successively sparser networks. We investigate using the same IMP to produce successively sparser weight initialisations, in which successively greater fractions of weights are set to zero at initialisation, but in which the whole network is then trained. We find that with this full dense network training produces slightly better performance than training a sparse network. We also find that that the initialisation weights that were set to zero tend to remain small during training. We believe this property of sparse initialisation by IMP has not previously been observed.
+Abstract: Existing Convolutional Neural Networks (CNNs)
+suffer from limitations such as purely using features from the
+final layers for decision making, without leveraging important
+information obtained from middle layers. To tackle such limita-
+tions, we propose a novel CNN variant with multi-layer feature
+aggregation and pooling permutations for sound classification.
+We also introduce a method reshaping intermediate features
+from different layers to summarize in time-axis without losing
+important information. The proposed model results in signifi-
+cant boosting on model performance over the original networks
+for diverse sound classification problems.
 
-### Date Added to IEEE Xplore: 27 March 2025
+### Conference Data and Location: October 5-8, 2025. Vienna, Austria
 
-### Conference Location: Miyazaki, Japan
