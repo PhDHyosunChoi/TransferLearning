@@ -1,5 +1,6 @@
 # [Novel Convolutional Neural Networks with Multi-layer Feature Aggregation and Pooling Permutations for Sound Classification](https://ieeexplore.ieee.org/abstract/document/11342744)
 
+
 ### Published in: 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) 
 
 ### Authors: Hyosun Choi, Li Zhang, Chris Watkins, and Arjun Panesar
