@@ -1,4 +1,4 @@
-# [Novel Convolutional Neural Networks with Multi-layer Feature Aggregation and Pooling Permutations for Sound Classification](https://ieeexplore.ieee.org/xpl/conhome/1000738/all-proceedings)
+# [Novel Convolutional Neural Networks with Multi-layer Feature Aggregation and Pooling Permutations for Sound Classification](https://ieeexplore.ieee.org/abstract/document/11342744)
 
 ### Published in: 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) 
 
